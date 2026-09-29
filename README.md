@@ -1,4 +1,4 @@
-<h1 align="center">Brijesh Bolar</h1>
+<h1 align="center">Brijeshh Harish Bolar</h1>
 
 <p align="center">
   <b>AI Solutions Architect &amp; Technical Lead</b><br>
@@ -98,6 +98,25 @@ A research agent for public companies. Ask a question and get a structured repor
 <br>
 <img src="https://img.shields.io/badge/Prometheus-E6522C?style=flat&logo=prometheus&logoColor=white" alt="Prometheus">
 <img src="https://img.shields.io/badge/Grafana-F46800?style=flat&logo=grafana&logoColor=white" alt="Grafana">
+
+---
+
+### Certifications
+
+<p>
+  <a href="https://www.credly.com/badges/0d7073a3-3cc1-42e0-a0f7-ff419c2564c5" title="AWS Certified Solutions Architect – Associate (verify on Credly)">
+    <img src="https://images.credly.com/images/0e284c3f-5164-4b21-8660-0d84737941bc/image.png" width="110" alt="AWS Certified Solutions Architect – Associate">
+  </a>
+  &nbsp;
+  <a href="https://www.credly.com/badges/25165ca6-f250-42b1-9f37-fce8b9415b54" title="Professional Scrum Master I (verify on Credly)">
+    <img src="https://images.credly.com/images/a2790314-008a-4c3d-9553-f5e84eb359ba/image.png" width="110" alt="Professional Scrum Master I">
+  </a>
+</p>
+
+- **AWS Certified Solutions Architect – Associate** · Amazon Web Services · 2026 · [verify](https://www.credly.com/badges/0d7073a3-3cc1-42e0-a0f7-ff419c2564c5)
+- **Professional Scrum Master I (PSM I)** · Scrum.org · 2021 · [verify](https://www.credly.com/badges/25165ca6-f250-42b1-9f37-fce8b9415b54)
+
+<sub>All badges: <a href="https://www.credly.com/users/brijesh-bolar/badges">credly.com/users/brijesh-bolar</a></sub>
 
 ---
 
