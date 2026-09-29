@@ -130,5 +130,5 @@ A research agent for public companies. Ask a question and get a structured repor
 ---
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/brijeshbolar-cloud-engineer/">LinkedIn</a> · bolar.brijesh@gmail.com
+  <a href="https://www.linkedin.com/in/brijeshh-harish-bolar/">LinkedIn</a> · bolar.brijesh@gmail.com
 </p>
