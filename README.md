@@ -2,11 +2,12 @@
 
 <p align="center">
   <b>AI Solutions Architect &amp; Technical Lead</b><br>
-  GenAI, RAG &amp; multi-agent systems on Azure and AWS · LLMOps · DevSecOps · 20+ years in banking and fintech
+  I design and ship production AI systems: LangGraph agents, RAG, evals and secure cloud delivery on Azure and AWS<br>
+  LLMOps · DevSecOps · Ex-AVP, Bank of Singapore
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/brijeshbolar-cloud-engineer/"><img src="https://img.shields.io/badge/LinkedIn-Brijesh%20Bolar-0A66C2?style=flat" alt="LinkedIn"></a>
+  <a href="https://www.linkedin.com/in/brijeshh-harish-bolar/"><img src="https://img.shields.io/badge/LinkedIn-Brijeshh%20Harish%20Bolar-0A66C2?style=flat" alt="LinkedIn"></a>
   <img src="https://img.shields.io/badge/Based%20in-Mumbai-555?style=flat" alt="Based in Mumbai">
   <img src="https://img.shields.io/badge/Open%20to-UAE%20roles-2E7D32?style=flat" alt="Open to UAE roles">
   <img src="https://img.shields.io/badge/AWS-Solutions%20Architect%20Associate-FF9900?style=flat" alt="AWS Certified Solutions Architect – Associate">
@@ -17,7 +18,7 @@
 ### About me
 
 - I design and ship applied AI systems end to end: agent workflows, retrieval, evaluation, cloud deployment and the pipeline around them.
-- Before this I spent 20+ years in private banking, wealth management, fintech and telecom. Most recently I was AVP and Technical Lead at **Bank of Singapore**, leading a 10+ engineer team on the Enterprise Data Management platform.
+- Before this I was AVP and Technical Lead at **Bank of Singapore**, leading a 10+ engineer team on the Enterprise Data Management platform, and earlier built wealth-management and digital-commerce platforms at Standard Chartered and Singtel.
 - I work the way regulated industries need: every number measured, every decision written down, no secrets in code, and systems that degrade instead of failing.
 - Since 2024 I've been Founder Engineer at **Vaiteq Solutions**, building AI and cloud systems for BFSI use cases.
 
