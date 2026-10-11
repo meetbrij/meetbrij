@@ -20,7 +20,7 @@
 - I turn business problems into production AI systems: I work out the requirements with the people who own the problem, build the solution (agent workflows, retrieval, API integrations, evaluation), deploy it on Azure or AWS, and stay accountable until it works in production.
 - Before this I was AVP and Technical Lead at **Bank of Singapore**, leading a 10+ engineer team on the Enterprise Data Management platform, and earlier built wealth-management and digital-commerce platforms at Standard Chartered and Singtel.
 - I work the way regulated industries need: every number measured, every decision written down, no secrets in code, and systems that degrade instead of failing.
-- Since 2024 I've been Founder Engineer at **Vaiteq Solutions**, building AI and cloud systems for BFSI use cases.
+- In 2024–25 I ran a small consultancy, Vaiteq Solutions, shipping AI-enabled MVPs for startups. Since 2026 I've been building production-grade AI and cloud systems full time; they're below.
 
 ---
 
