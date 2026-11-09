@@ -17,10 +17,13 @@
 
 ### About me
 
-- I turn business problems into production AI systems: I work out the requirements with the people who own the problem, build the solution (agent workflows, retrieval, API integrations, evaluation), deploy it on Azure or AWS, and stay accountable until it works in production.
-- Before this I was AVP and Technical Lead at **Bank of Singapore**, leading a 10+ engineer team on the Enterprise Data Management platform, and earlier built wealth-management and digital-commerce platforms at Standard Chartered and Singtel.
-- I work the way regulated industries need: every number measured, every decision written down, no secrets in code, and systems that degrade instead of failing.
-- In 2024–25 I ran a small consultancy, Vaiteq Solutions, shipping AI-enabled MVPs for startups. Since 2026 I've been building production-grade AI and cloud systems full time; they're below.
+Turning foundation models into useful, safe, fast and reliable products.
+
+- I build LLM products end to end: agent workflows, retrieval, tool and API integrations, and the evals that decide whether a change ships. I work out the requirements with the people who own the problem, deploy on AWS or Azure, and stay accountable until it works in production.
+- I work the way regulated industries need: every number measured, every decision written down, no secrets in code, humans approving the high-stakes steps, and systems that degrade instead of failing.
+- I run **Vaiteq Solutions**, an AI engineering consultancy: AI-enabled MVPs for startup clients and enterprise-grade agentic builds for banking use cases. They're pinned below.
+- Before that I was AVP and Technical Lead at **Bank of Singapore**, leading a 10+ engineer team on the Enterprise Data Management platform, and earlier built wealth-management and digital-commerce platforms at Standard Chartered and Singtel.
+- Currently building a mutual fund RAG agent from scratch, step by step from ingestion to production hardening.
 
 ---
 
